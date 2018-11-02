@@ -1,2 +1,2 @@
 # AcademyGitRebase
-Mixed text
+A guthub changed text
