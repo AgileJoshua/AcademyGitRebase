@@ -1,2 +1,2 @@
 # AcademyGitRebase
-More text
+Mixed text
