@@ -1,2 +1,3 @@
 # AcademyGitRebase
-A guthub changed text
+A github & locally changed text
+
